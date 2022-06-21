@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dd-RyuheiKato/apm-test-nodejs/issues"
   },
-  "homepage": "https://github.com/dd-RyuheiKato/apm-test-nodejs#readme"
+  "homepage": "https://github.com/dd-RyuheiKato/apm-test-nodejs#readme",
+  "dependencies": {
+    "dd-trace": "^2.9.1"
+  }
 }
